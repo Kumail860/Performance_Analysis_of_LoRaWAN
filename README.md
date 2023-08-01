@@ -1,4 +1,4 @@
-# Performance_Analysis_of_LoRaWAN
+# Performance Analysis of LoRaWAN
 This work is a description of the experiment conducted to understand the reception
 of LoRa in closed environments, such as a building.
 The experiment was carried out on 04/05/2023, in the NW1 building of University of
